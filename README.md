@@ -13,7 +13,7 @@ This is a prototyping shield for ST's [Nucleo-144][stm32nucleo] development boar
 * Four separate columns (2x9-pin and 2x10-pin) of uncommitted
   continuous pads that can be used for power rails and such.
 
-[![render_small](./doc/stm32_nucleo-144_proto_shield_front_small.png)](./doc/stm32_nucleo-144_proto_shield_front_small.png)
+[![render_small](./doc/stm32_nucleo-144_proto_shield_front_small.png)](./doc/stm32_nucleo-144_proto_shield_front.png)
 
 [stm32nucleo]: http://www.st.com/web/catalog/tools/FM116/SC959/SS1532/LN1847?sc=stm32nucleo 
 [UM1974]: http://www.st.com/st-web-ui/static/active/en/resource/technical/document/user_manual/DM00244518.pdf
