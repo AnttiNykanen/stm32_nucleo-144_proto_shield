@@ -1,7 +1,7 @@
 # STM32 Nucleo-144 Prototyping Shield
 
-Note: I don't actually have a Nucleo-144 board at the moment and
-haven't had this design manufactured yet.
+Note: ~~I don't actually have a Nucleo-144 board at the moment and
+haven't had this design manufactured yet.~~ I haven't had time to check how the boards I had made turned out.
 
 This is a prototyping shield for ST's [Nucleo-144][stm32nucleo] development boards. It has the following features:
 
